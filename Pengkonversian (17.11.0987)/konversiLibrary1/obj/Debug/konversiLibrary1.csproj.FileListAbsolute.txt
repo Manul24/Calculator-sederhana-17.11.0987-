@@ -1,0 +1,5 @@
+D:\save project visual studio\konversi\konversiLibrary1\bin\Debug\konversiLibrary1.dll
+D:\save project visual studio\konversi\konversiLibrary1\bin\Debug\konversiLibrary1.pdb
+D:\save project visual studio\konversi\konversiLibrary1\obj\Debug\konversiLibrary1.dll
+D:\save project visual studio\konversi\konversiLibrary1\obj\Debug\konversiLibrary1.pdb
+D:\save project visual studio\konversi\konversiLibrary1\obj\Debug\konversiLibrary1.csprojResolveAssemblyReference.cache
